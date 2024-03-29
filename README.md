@@ -4,7 +4,7 @@ chiracare Webapp about systerm to manager.
 
 ## Setup
 
-Make sure to install the dependencies:
+chiracare is Webapp to keep data about patient.
 
 ```bash
 # npm
