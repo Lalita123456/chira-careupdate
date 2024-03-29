@@ -1,6 +1,6 @@
 # Chiracare
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+chiracare Webapp about systerm to manager.
 
 ## Setup
 
