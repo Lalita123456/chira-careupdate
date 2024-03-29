@@ -4,7 +4,7 @@ chiracare Webapp about systerm to manager.
 
 ## Setup
 
-chiracare is Webapp to keep data about patient.
+chiracare is Webapp to keep data about patient and data analysis .
 
 ```bash
 # npm
