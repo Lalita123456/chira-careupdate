@@ -3,7 +3,7 @@
         <section>
             <div class="card">
                 <div class="logo">
-                    <img src="/assets/pictures/logo.png" width="300">
+                    <img src="/assets/pictures/logo.png" width="454">
                 </div>
   
                 <div class="container-form">
