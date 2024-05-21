@@ -41,7 +41,7 @@
     background: url('~/assets/image/bg-main.png'), lightgray 50% / cover no-repeat;
     /* Set rules to fill background */
     min-height: 100%;
-    min-width: 1020px;
+    min-width: 1024px;
   
     /* Set up proportionate scaling */
     width: 100%;
