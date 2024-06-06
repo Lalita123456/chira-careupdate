@@ -1,6 +1,6 @@
 <template>
     <div class="bg-container">
-        <section>
+      <section>
             <div class="card">
                 <div class="logo">
                     <img src="/assets/pictures/logo.png" width="454">
@@ -38,7 +38,7 @@
   
   .bg-container {
     /* background: url('~/assets/image/bg-main.png') no-repeat; */
-    background: url('~/assets/image/bg-main.png'), lightgray 50% / cover no-repeat;
+    background: url('/assets/pictures/Login.jpg'), lightgray 50% / cover no-repeat;
     /* Set rules to fill background */
     min-height: 100%;
     min-width: 1024px;
