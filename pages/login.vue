@@ -22,7 +22,7 @@
                         <p class="pw">ลืมรหัสผ่าน?</p>
                         <button class="btn">เข้าสู่ระบบ</button>
   
-                        <a class="reg">ลงทะเบียนผู้ใช้ใหม่</a>
+                        <a class="reg" href="#">ลงทะเบียนผู้ใช้ใหม่</a>
                     </form>
                 </div>
   
